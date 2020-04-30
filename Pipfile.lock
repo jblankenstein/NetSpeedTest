@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "3a8ed05f4a50feb743ec84f1ce277c5237aa7a026518fcb92fd062727b858b08"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "wireless": {
+            "hashes": [
+                "sha256:8d2ab4746d39688caa7e659704e83872d5530cca6cec0982cb8a7bd6590d13fc"
+            ],
+            "index": "pypi",
+            "version": "==0.3.3"
+        }
+    },
+    "develop": {}
+}
